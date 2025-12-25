@@ -33,7 +33,7 @@ To make themes, they must follow this formula:
         QPushButton, QLineEdit { background:#ffffff; }
     """,
 
-  After making your theme, send it to jamerchgitcontactmail@yahoo.com. I will respond with wether if it's accepted or not.
+  After making your theme, send it to jamercontactemail@gmail.com. I will respond with wether if it's accepted or not.
 
   ## Author
   [me :)](https://jswagging.github.io/secret/) (i own this btw)
