@@ -1,5 +1,3 @@
-<!-- ==================== BANNER ==================== -->
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/91c3984c-7778-47f3-92ff-c8e8df26c6a7" width="100%" alt="ClockPy Banner">
 </div>
@@ -36,13 +34,32 @@ Designed to stay **minimal, clean, and extensible**.
 - ⚡ Lightweight PyQt6 UI  
 - 🖥 Minimal & distraction-free design  
 
-_And more to come..._
-
 ---
 
 ## 🖥 App Preview
 
-> dont got images
+<table>
+  <thead>
+    <tr>
+      <th align="center">Clock View</th>
+      <th align="center">Stopwatch</th>
+      <th align="center">Timer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="256" alt="Clock View" src="https://github.com/user-attachments/assets/063ad9f7-78ae-4121-b486-b1c1aa9eb453" />
+      </td>
+      <td align="center">
+        <img width="256" alt="Stopwatch" src="https://github.com/user-attachments/assets/ba99449c-a1c9-40aa-9381-184462a67e3e" />
+      </td>
+      <td align="center">
+        <img width="256" alt="Timer" src="https://github.com/user-attachments/assets/f569056b-edb3-4b72-a6ff-913c9a6e4078" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -55,6 +72,7 @@ _And more to come..._
       <th align="center">Catppuccin Latte</th>
       <th align="center">Dracula</th>
       <th align="center">Nord</th>
+      <th align="center">Every Theme</th>
     </tr>
   </thead>
   <tbody>
@@ -71,8 +89,15 @@ _And more to come..._
       <td align="center">
         <img width="120" alt="Nord" src="https://github.com/user-attachments/assets/d961e60c-08fa-4f83-b456-14f62e7bd8e9" />
       </td>
+      <td align="center">
+        <img width="256" alt="Timer" src="https://github.com/user-attachments/assets/d4356051-736b-4dfb-af56-4fd4beb62621" />
+      </td>
     </tr>
   </tbody>
 </table>
 
 _And many more included..._
+
+## ⬇️ Download the source code
+
+[Download]()
