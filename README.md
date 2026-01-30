@@ -106,5 +106,5 @@ You can download the main Python file either on the source file [linked on the p
 
 **What you can do with the source code:**
 
-- ✅ Study how the clock app was made
+- ✅ Study how this was made
 - ✅ Modify or extend features like themes, stopwatch, or timer
