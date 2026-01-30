@@ -18,9 +18,7 @@
 
 ## ✨ About
 
-**ClockPy** is a **lightweight and modern Python clock application** built with **PyQt6**, featuring a live clock, stopwatch, timer, and a customizable theme system.
-
-Designed to stay **minimal, clean, and extensible**, perfect for developers and productivity enthusiasts alike.
+**ClockPy** is a **lightweight and modern Python clock application** built with **PyQt6**, featuring a live clock, stopwatch, timer, and a theme system.
 
 ---
 
@@ -31,7 +29,7 @@ Designed to stay **minimal, clean, and extensible**, perfect for developers and 
 - ⏲ Countdown timer  
 - 🎨 11+ built-in themes  
 - 💾 Remembers your selected theme  
-- ⚡ Lightweight PyQt6 UI  
+- ⚡ Lightweight UI  
 - 🖥 Minimal & distraction-free design  
 
 ---
