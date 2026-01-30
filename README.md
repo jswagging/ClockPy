@@ -1,3 +1,5 @@
+<!-- ==================== BANNER ==================== -->
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/91c3984c-7778-47f3-92ff-c8e8df26c6a7" width="100%" alt="ClockPy Banner">
 </div>
@@ -18,7 +20,7 @@
 
 ## ✨ About
 
-**ClockPy** is a **lightweight and modern Python clock application** built with **PyQt6**, featuring a live clock, stopwatch, timer, and a fully customizable theme system.
+**ClockPy** is a **lightweight and modern Python clock application** built with **PyQt6**, featuring a live clock, stopwatch, timer, and a customizable theme system.
 
 Designed to stay **minimal, clean, and extensible**.
 
@@ -30,7 +32,6 @@ Designed to stay **minimal, clean, and extensible**.
 - ⏱ Stopwatch with millisecond precision  
 - ⏲ Countdown timer  
 - 🎨 11+ built-in themes  
-- 🧩 Custom theme support (`.clocktheme.json`)  
 - 💾 Remembers your selected theme  
 - ⚡ Lightweight PyQt6 UI  
 - 🖥 Minimal & distraction-free design  
@@ -41,7 +42,7 @@ _And more to come..._
 
 ## 🖥 App Preview
 
-> havent uploaded images / gifs yet /:
+> dont got images
 
 ---
 
@@ -59,29 +60,19 @@ _And more to come..._
   <tbody>
     <tr>
       <td align="center">
-        <img width="60" alt="Mocha" src="https://github.com/user-attachments/assets/0655c70f-3f06-4591-a359-66a798f33e16" />
+        <img width="120" alt="Mocha" src="https://github.com/user-attachments/assets/0655c70f-3f06-4591-a359-66a798f33e16" />
       </td>
       <td align="center">
-        <img width="60" alt="Latte" src="https://github.com/user-attachments/assets/28e6a541-ef63-4641-95a1-894c596d2860" />
+        <img width="120" alt="Latte" src="https://github.com/user-attachments/assets/28e6a541-ef63-4641-95a1-894c596d2860" />
       </td>
       <td align="center">
-        <img width="60" alt="Dracula" src="https://github.com/user-attachments/assets/9e408dc8-88b9-4673-be76-2662afc675a1" />
+        <img width="120" alt="Dracula" src="https://github.com/user-attachments/assets/9e408dc8-88b9-4673-be76-2662afc675a1" />
       </td>
       <td align="center">
-        <img width="60" alt="Nord" src="https://github.com/user-attachments/assets/d961e60c-08fa-4f83-b456-14f62e7bd8e9" />
+        <img width="120" alt="Nord" src="https://github.com/user-attachments/assets/d961e60c-08fa-4f83-b456-14f62e7bd8e9" />
       </td>
     </tr>
   </tbody>
 </table>
 
 _And many more included..._
-
----
-
-## 🧩 Custom Themes
-
-ClockPy supports **user-made themes** that load automatically.
-
-### 📁 Theme File Requirements
-
-**Folder:**
