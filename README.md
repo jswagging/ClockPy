@@ -97,3 +97,6 @@ Designed to stay **minimal, clean, and extensible**.
 </table>
 
 _And many more included..._
+
+### ⬇️ Download source code
+[Download ClockPy](https://github.com/jswagging/ClockPy/archive/refs/heads/ClockPySource.py)
