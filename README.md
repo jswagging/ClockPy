@@ -97,7 +97,3 @@ Designed to stay **minimal, clean, and extensible**.
 </table>
 
 _And many more included..._
-
-## ⬇️ Download the source code
-
-[Download]()
