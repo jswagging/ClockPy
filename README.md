@@ -20,7 +20,7 @@
 
 **ClockPy** is a **lightweight and modern Python clock application** built with **PyQt6**, featuring a live clock, stopwatch, timer, and a customizable theme system.
 
-Designed to stay **minimal, clean, and extensible**.
+Designed to stay **minimal, clean, and extensible**, perfect for developers and productivity enthusiasts alike.
 
 ---
 
@@ -90,7 +90,7 @@ Designed to stay **minimal, clean, and extensible**.
         <img width="120" alt="Nord" src="https://github.com/user-attachments/assets/d961e60c-08fa-4f83-b456-14f62e7bd8e9" />
       </td>
       <td align="center">
-        <img width="256" alt="Timer" src="https://github.com/user-attachments/assets/d4356051-736b-4dfb-af56-4fd4beb62621" />
+        <img width="256" alt="All Themes" src="https://github.com/user-attachments/assets/d4356051-736b-4dfb-af56-4fd4beb62621" />
       </td>
     </tr>
   </tbody>
@@ -98,5 +98,15 @@ Designed to stay **minimal, clean, and extensible**.
 
 _And many more included..._
 
-### ⬇️ Download source code
-[Download ClockPy](https://github.com/jswagging/ClockPy/archive/refs/heads/ClockPySource.py)
+---
+
+### ⬇️ Download the Source Code
+
+You can download the main Python file either on the source file [linked on the project page](https://github.com/jswagging/ClockPy/blob/main/ClockPySource.py), or from here:
+
+[📄 ClockPySource.py](https://raw.githubusercontent.com/jswagging/ClockPy/main/ClockPySource.py)
+
+**What you can do with the source code:**
+
+- ✅ Study how the clock app was made
+- ✅ Modify or extend features like themes, stopwatch, or timer
